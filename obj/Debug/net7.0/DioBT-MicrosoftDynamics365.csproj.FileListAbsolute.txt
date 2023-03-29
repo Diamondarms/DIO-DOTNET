@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\bin\Debug\net7.0\DioBT-MicrosoftDynamics365.exe
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\bin\Debug\net7.0\DioBT-MicrosoftDynamics365.deps.json
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\bin\Debug\net7.0\DioBT-MicrosoftDynamics365.runtimeconfig.json
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\bin\Debug\net7.0\DioBT-MicrosoftDynamics365.dll
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\bin\Debug\net7.0\DioBT-MicrosoftDynamics365.pdb
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.dll
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\refint\DioBT-MicrosoftDynamics365.dll
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.pdb
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\DioBT-MicrosoftDynamics365.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Estudos\Microsoft Dynamics BT\DioBT-MicrosoftDynamics365\obj\Debug\net7.0\ref\DioBT-MicrosoftDynamics365.dll
