@@ -1,8 +1,11 @@
 ﻿using CSharp.Models;
 
 
-Calculadora c = new Calculadora();
+List<string> str = new List<string>();
 
-c.RaizQuadrada(49);
-c.RaizQuadrada(144);
-c.RaizQuadrada(-2);
+str.Add("Bobora");
+str.Add("Dacueba");
+
+foreach(string d in str){
+    Console.WriteLine(d);
+}
