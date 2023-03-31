@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7yLHCF8sLUqWojohy3W+3tUtcuaxiZnrcHLFbNZuQwiJfn9d/nv/1lUecypb1XpZWkOQr3qqPOodEcQVrDK6A==",
+  "dgSpecHash": "4gdY1jfNBXfN2Biz/2CJXIM2brwwc9ofqVX8Jd1eKlGw9z/tVj3wjCB2jQVgQxm2Bckz6fN+miX66S1xAKwjBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Estudos\\Microsoft Dynamics BT\\DioBT-MicrosoftDynamics365\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Estudos\\DIO\\CSharpDotnet\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

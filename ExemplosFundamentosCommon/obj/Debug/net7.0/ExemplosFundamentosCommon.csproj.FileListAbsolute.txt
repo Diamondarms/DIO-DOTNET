@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\bin\Debug\net7.0\ExemplosFundamentosCommon.deps.json
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\bin\Debug\net7.0\ExemplosFundamentosCommon.dll
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\bin\Debug\net7.0\ExemplosFundamentosCommon.pdb
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.dll
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\refint\ExemplosFundamentosCommon.dll
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ExemplosFundamentosCommon.pdb
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemplosFundamentosCommon\obj\Debug\net7.0\ref\ExemplosFundamentosCommon.dll
