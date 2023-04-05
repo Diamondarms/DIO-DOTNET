@@ -25,8 +25,11 @@ namespace ExemplosFundamentos.Common.Models
         }
 
         public void ListarAlunos(){
-            foreach(Pessoa p in Alunos){
+            /*foreach(Pessoa p in Alunos){
                 Console.WriteLine($"Nome do Aluno: {p.NomeCompleto}");
+            }*/
+            for(int i=0;i<Alunos.Count;i++){
+                Console.WriteLine($"Aluno {i+1}: {Alunos[i].NomeCompleto}");
             }
         }
     }
