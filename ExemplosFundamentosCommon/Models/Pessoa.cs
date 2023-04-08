@@ -13,6 +13,11 @@ namespace ExemplosFundamentos.Common.Models
         }
         public Pessoa() { }
 
+        public void Deconstruct(out string nome, out string sobrenome){
+            nome = Nome;
+            sobrenome = SobreNome;
+        }
+
         private string _nome;
         private int _idade;
         public string Nome{ 
