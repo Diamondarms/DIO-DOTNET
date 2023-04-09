@@ -2,12 +2,68 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-dynamic variavelDinamica = 4;
-Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
-variavelDinamica = false;
-Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
-variavelDinamica = "oshe";
-Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+int numero = 263;
+bool par = false;
+
+par = numero.EhPar();
+
+Console.WriteLine(par);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// MeuArray<int> array1 = new MeuArray<int>();
+
+// array1.AdicionarElementoArray(5);
+
+// Console.WriteLine(array1[0]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// dynamic variavelDinamica = 4;
+// Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+// variavelDinamica = false;
+// Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+// variavelDinamica = "oshe";
+// Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
 
 
 
