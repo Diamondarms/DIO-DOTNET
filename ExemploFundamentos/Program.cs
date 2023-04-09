@@ -1,5 +1,169 @@
 ﻿using ExemplosFundamentos.Common.Models;
 using System.Globalization;
+using Newtonsoft.Json;
+
+dynamic variavelDinamica = 4;
+Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+variavelDinamica = false;
+Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+variavelDinamica = "oshe";
+Console.WriteLine($"tipo: {variavelDinamica.GetType()} valor: {variavelDinamica}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string conteudo = File.ReadAllText("../arquivos/vendas1.json");
+
+// List<VendaImportada> listaVendas = JsonConvert.DeserializeObject<List<VendaImportada>>(conteudo);
+
+// var listaAnonimo = listaVendas.Select(x => new{x.Produto, x.Preco});
+
+// foreach(var v in listaAnonimo){
+//     Console.WriteLine($"Produto: {v.Produto} - Preço: {v.Preco:C}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var tipoAnonimo = new {Nome = "Guilherme", Idade = 20};
+
+// Console.WriteLine($"Nome: {tipoAnonimo.Nome} Idade: {tipoAnonimo.Idade}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string conteudo = File.ReadAllText("../arquivos/vendas1.json");
+
+// List<VendaImportada> listaVendas = JsonConvert.DeserializeObject<List<VendaImportada>>(conteudo);
+
+// foreach(VendaImportada v in listaVendas){
+//     Console.WriteLine($"Produto: {v.Produto} - Preço: {v.Preco:C} - Data: {v.DataVenda.ToString("dd/MM/yy HH:mm")}"+
+//     $"{(v.Desconto.HasValue ? $" - Desconto: {v.Desconto}" : "")}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// DateTime dataAtual = DateTime.Now;
+
+// Venda v1 = new Venda(1, "Caderno", 20.0M,dataAtual);
+// Venda v2 = new Venda(2, "Lápis", 4.0M,dataAtual);
+// Venda v3 = new Venda(3, "Borracha", 3.0M,dataAtual);
+// Venda v4 = new Venda(4, "Caneta", 5.0M,dataAtual);
+
+// List<Venda> vendas = new List<Venda>();
+// vendas.Add(v1);
+// vendas.Add(v2);
+// vendas.Add(v3);
+// vendas.Add(v4);
+
+// string serializado = JsonConvert.SerializeObject(vendas, Formatting.Indented);
+
+// File.WriteAllText("../arquivos/vendas1.json",serializado);
+
+// Console.WriteLine(serializado);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // Pessoa pq = new Pessoa("Gui", "Tonon");

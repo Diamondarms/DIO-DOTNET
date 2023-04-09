@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4gdY1jfNBXfN2Biz/2CJXIM2brwwc9ofqVX8Jd1eKlGw9z/tVj3wjCB2jQVgQxm2Bckz6fN+miX66S1xAKwjBQ==",
+  "dgSpecHash": "giUW9e9OxH/3qa6ziNOwHJcRJ8z+C4D1vKkMJP11Lf7QIs4YrZrMm3kVtVS1Aq1m+M/8XEx7s5SzJZfvqz6baw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\Estudos\\DIO\\CSharpDotnet\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

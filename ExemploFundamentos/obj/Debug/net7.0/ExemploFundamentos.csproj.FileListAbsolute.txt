@@ -16,3 +16,4 @@ C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemploFundamentos\obj\Debug
 C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.pdb
 C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemploFundamentos\obj\Debug\net7.0\ref\ExemploFundamentos.dll
+C:\Users\Usuario\Documents\Estudos\DIO\CSharpDotnet\ExemploFundamentos\bin\Debug\net7.0\Newtonsoft.Json.dll
