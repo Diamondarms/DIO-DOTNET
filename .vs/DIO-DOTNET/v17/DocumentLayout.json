@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Excecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\Excecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\IntExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\IntExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\Pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\Venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\VendaImportada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\VendaImportada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosNET7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosNET7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\MeuArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemplosFundamentosCommon\\Models\\MeuArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\ContaCorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\ContaCorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Corrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Corrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploFundamentosNET6\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploFundamentosNET6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploFundamentos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\IntExtensions.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\IntExtensions.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\IntExtensions.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\IntExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:25:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Pessoa.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:08:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Venda.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:08:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendaImportada.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\VendaImportada.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\VendaImportada.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\VendaImportada.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\VendaImportada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:08:09.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExemplosFundamentosCommon.csproj",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\ExemplosFundamentosCommon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T15:08:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Class1.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Class1.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Class1.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:08:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosNET7\\Program.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosNET7\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosNET7\\Program.cs",
+              "RelativeToolTip": "ExemplosFundamentosNET7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:06:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeuArray.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\MeuArray.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\MeuArray.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\MeuArray.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\MeuArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:05:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeiturAarquivo.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\LeiturAarquivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:05:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Excecao.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Excecao.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\Excecao.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Excecao.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\Excecao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:05:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "ExemplosFundamentosCommon\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemplosFundamentosCommon\\Models\\Curso.cs",
+              "RelativeToolTip": "ExemplosFundamentosCommon\\Models\\Curso.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:05:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Pessoa.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:02:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "RelativeToolTip": "ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:03:28.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Professor.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:02:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Diretor.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Diretor.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Diretor.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Diretor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:02:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\ContaCorrente.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Program.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Program.cs",
+              "RelativeToolTip": "ExemploPOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:15.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Corrente.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Corrente.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Corrente.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Corrente.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Corrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Conta.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Conta.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Conta.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Calculadora.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploPOO\\Models\\Aluno.cs",
+              "RelativeToolTip": "ExemploPOO\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:01:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "ExemploFundamentosNET6\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\obj\\project.assets.json",
+              "RelativeToolTip": "ExemploFundamentosNET6\\obj\\project.assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T15:00:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExemploFundamentosNET5.csproj",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj",
+              "RelativeDocumentMoniker": "ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj",
+              "RelativeToolTip": "ExemploFundamentosNET6\\ExemploFundamentosNET5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T15:00:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\Program.cs",
+              "RelativeDocumentMoniker": "ExemploFundamentosNET6\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentosNET6\\Program.cs",
+              "RelativeToolTip": "ExemploFundamentosNET6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:00:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "ExemploFundamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documentos\\Projetos\\Dio-Dotnet\\DIO-DOTNET\\ExemploFundamentos\\Program.cs",
+              "RelativeToolTip": "ExemploFundamentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:59:56.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
